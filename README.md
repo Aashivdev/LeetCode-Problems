@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0326-power-of-three](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
