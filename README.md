@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0326-power-of-three](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0665-non-decreasing-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Sorting
 |  |
 | ------- |
