@@ -13,10 +13,10 @@ class Solution {
             }
         }
         String ans="";
-        while (!stack.empty()){
-            ans+=stack.pop();
-        }
-        StringBuilder s =new StringBuilder(ans);
-        return s.reverse().toString();
+       for(char c : stack){
+        ans+=c;
+       }
+       return ans;
+        
     }
 }
