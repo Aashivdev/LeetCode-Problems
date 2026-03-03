@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
