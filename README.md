@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0164-maximum-gap) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0078-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Breadth-First Search
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0933-number-of-recent-calls) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
