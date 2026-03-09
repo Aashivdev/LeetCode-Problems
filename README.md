@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0771-jewels-and-stones](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0665-non-decreasing-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0832-flipping-an-image](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0832-flipping-an-image) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Sorting
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
