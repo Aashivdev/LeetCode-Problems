@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2706-buy-two-chocolates](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 | [3663-find-the-least-frequent-digit](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Sorting
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [2706-buy-two-chocolates](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2706-buy-two-chocolates](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Bucket Sort
 |  |
 | ------- |
