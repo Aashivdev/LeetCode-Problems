@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0455-assign-cookies](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
