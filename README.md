@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3663-find-the-least-frequent-digit](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Bucket Sort
 |  |
