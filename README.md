@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0754-reach-a-number) |
+| [0908-smallest-range-i](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0908-smallest-range-i) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0832-flipping-an-image](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0832-flipping-an-image) |
+| [0908-smallest-range-i](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0941-valid-mountain-array) |
 | [0948-bag-of-tokens](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0948-bag-of-tokens) |
 | [1207-unique-number-of-occurrences](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
