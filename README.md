@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2413-smallest-even-multiple](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3663-find-the-least-frequent-digit](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0112-path-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
